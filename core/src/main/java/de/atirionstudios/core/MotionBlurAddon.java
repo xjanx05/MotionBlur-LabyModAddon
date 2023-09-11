@@ -11,6 +11,8 @@ public class MotionBlurAddon extends LabyAddon<MotionBlurConfiguration> {
     this.registerSettingCategory();
 
     this.logger().info("Enabled the Addon");
+
+    
   }
 
   @Override
